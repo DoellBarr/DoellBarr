@@ -23,5 +23,6 @@
 
 <details>
   <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=DoellBarr&theme=juicyfresh)
+  
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DoellBarr&theme=juicyfresh)
 </details>
