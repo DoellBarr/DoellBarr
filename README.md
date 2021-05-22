@@ -1,4 +1,4 @@
-### 𝙷𝚎𝚕𝚕𝚘 𝚢'𝚊𝚕𝚕, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙰𝚋𝚍𝚞𝚕, 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝟷𝟾 𝚢.𝚘 𝚊𝚗𝚍 𝙸'𝚖 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚘𝚗𝚎𝚜𝚒𝚊.
+### You can call me Abdul, I'm Currently learning Python 
 
 ### IDE
 <p>
