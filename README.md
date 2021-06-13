@@ -1,4 +1,4 @@
-### You can call me Abdul, I'm Currently learning Python 
+### You can call me Abdul, I'm Currently learning Python & Typescript
 
 ### IDE
 <p>
@@ -12,6 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DoellBarr&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoellBarr&layout=compact" />
 </p>
+
+### Language:
+<p>
+  <img src="https://img.shields.io/badge/-Typescript-grey?logo=typescript" />
+  <img src="https://img.shields.io/badge/-Python-black?logo=python&logoColor=yellow" />
 
 ### Let's Connect!
 <p>
