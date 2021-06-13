@@ -16,7 +16,7 @@
 ### Language:
 <p>
   <img src="https://img.shields.io/badge/-Typescript-grey?logo=typescript" />
-  <img src="https://img.shields.io/badge/-Python-black?logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-Python-grey?logo=python&logoColor=yellow" />
 
 ### Let's Connect!
 <p>
