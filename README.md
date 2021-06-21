@@ -1,5 +1,10 @@
 ### You can call me Abdul, I'm Currently learning Python & Typescript
 
+<p align="center">
+  <h3 align="center">Github Activity</h3>
+![Metrics](https://metrics.lecoq.io/DoellBarr?template=classic&isocalendar=1&introduction=1&lines=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FJakarta)
+</p>
+
 ### IDE
 <p>
   <img src="https://img.shields.io/badge/IDE-PyCharm-yellow?logo=pycharm&logoColor=yellow" />
@@ -12,7 +17,7 @@
 ### Stats and Contribution:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=DoellBarr&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoellBarr" /> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoellBarr&layout=compact" /> <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoellBarr" alt="DoellBarr" />
 </p>
 
@@ -33,6 +38,3 @@
   
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=DoellBarr&theme=juicyfresh)
 </details>
-
-<b>Github Activity</b>
-![Metrics](https://metrics.lecoq.io/DoellBarr?template=classic&isocalendar=1&introduction=1&lines=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FJakarta)
