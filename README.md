@@ -1,3 +1,4 @@
+### Hello PRO~ Noob Here~
 ### You can call me Abdul, I'm Currently learning Python & Typescript
 
 <p align="center">
