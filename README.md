@@ -20,4 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doellbarr&show_icons=true&theme=dark&locale=en" alt="doellbarr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doellbarr&theme=dark" alt="doellbarr" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark" alt="doellbarr" />< /p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=doellbarr&theme=dark" alt="doellbarr" /></p>
