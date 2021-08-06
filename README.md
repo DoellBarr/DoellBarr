@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doellbarr&label=Profile%20views&color=0e75b6&style=flat" alt="doellbarr" /> </p>
 
-- 🔭 Saya sedang bekerja pada [mediashare](https://mediashare.tech)
+- 🌱 Saya sedang mempelajari **Typescript, Javascript, Laravel, Python, React.Js**
 
-- 🌱 Saya sedang mempelajari **Typescript, Javascript, Laravel, Python**
-
-- 💬 Tanyakan saya tentang **Laravel, Typescript & Javascript, Python dan Telegram Bot**
+- 💬 Tanyakan saya tentang **Typescript & Javascript, Python dan Telegram Bot**
 
 - 📫 Bagaimana cara berkomunikasi dengan saya **muhammadshohihabdulbarr@gmail.com**
 
