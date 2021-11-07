@@ -13,3 +13,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doellbarr&theme=dark" alt="doellbarr" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=doellbarr&theme=dark&langs_count=5&layout=compact" alt="doellbarr" /></p>
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=DoellBarr)](https://github.com/DoellBarr)
