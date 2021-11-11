@@ -12,5 +12,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doellbarr&show_icons=true&theme=dark&locale=en" alt="doellbarr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doellbarr&theme=dark" alt="doellbarr" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=doellbarr&theme=dark&langs_count=5&layout=compact" alt="doellbarr" /></p>
-<a href="https://github.com/DoellBarr"> <img src="https://github-profile-trophy.vercel.app/?username=DoellBarr" alt="abdul's-github"/> </a> 
+<a href="https://github.com/DoellBarr"> <img src="https://github-profile-trophy.vercel.app/?username=doellbarr&row=2&column=3&theme=onedark" alt="abdul's-github"/> </a> 
